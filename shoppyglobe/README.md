@@ -6,4 +6,3 @@ Some of the features include:
     Secure Password Hashing (bcrypt)
     MongoDB (via Mongoose)
     Tested using Thunder Client (VS Code)
-Link for the repository: https://github.com/srayan98/SHOPPYGLOBE-API/tree/main/shoppyglobe
