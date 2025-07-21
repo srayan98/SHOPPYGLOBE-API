@@ -6,3 +6,4 @@ Some of the features include:
     Secure Password Hashing (bcrypt)
     MongoDB (via Mongoose)
     Tested using Thunder Client (VS Code)
+    
